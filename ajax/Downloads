@@ -1,0 +1,15 @@
+[
+    {
+        "archivo": "meme.mp4",
+        "tamaño": 20000,
+        "tipo": "video"
+    },{
+        "archivo": "temazo.mp3",
+        "tamaño": 4300,
+        "tipo": "audio"
+    },{
+        "archivo": "jueguito.par1.rar",
+        "tamaño": 10000,
+        "tipo": "archivo"
+    }
+]

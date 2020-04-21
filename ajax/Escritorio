@@ -1,0 +1,15 @@
+[
+    {
+        "archivo": "age of empires.exe",
+        "tamaño": 1,
+        "tipo": "archivo"
+    },{
+        "archivo": "virus.bat",
+        "tamaño": 300,
+        "tipo": "archivo"
+    },{
+        "archivo": "PirateadorMultiUsos.vbs",
+        "tamaño": 2634,
+        "tipo": "script"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "archivo": "word.doc",
+        "tamaño": 300,
+        "tipo": "word"
+    },{
+        "archivo": "excel.xls",
+        "tamaño": 42300,
+        "tipo": "hoja de calculo"
+    },{
+        "archivo": "powerpoint.pptx",
+        "tamaño": 345895,
+        "tipo": "Presentacion PPTX"
+    }
+]

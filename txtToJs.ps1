@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path $PSScriptRoot -Recurse -Filter *.txt | Rename-Item -NewName {[System.IO.Path]::ChangeExtension($_.Name, ".js")}
